@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exposicion>
+    <libro>
+        <titulo>Fundación</titulo>
+        <autor>Isaac Asimov</autor>
+        <ISBN>9788497599245</ISBN>
+        <editorial>Debolsillo</editorial>
+        <fecha>1951</fecha>
+        <url>https://www.casadellibro.com/libro-fundacion/9788497599245/924945</url>
+        <sinopsis>
+            Desde hace doce mil años el hombre se ha dispersado por los planetas de la galaxia, unificada alrededor de un Imperio pacífico cuya capital es la majestuosa ciudad de Trántor. El sistema funcionó y prosperó durante incontables generaciones, pero ahora se ha convertido en el centro de todas las intrigas y en símbolo de la corrupción imperial. Solamente Hari Seldon, creador de la psicohistoria -la ciencia revolucionaria que se basa en el estudio matemático de los hechos históricos-, fue capaz de prever el derrumbamiento del Imperio y el retorno a la barbarie durante varios milenios.
+        </sinopsis>
+    </libro>
+    <libro>
+        <titulo>Fundación e Imperio</titulo>
+        <autor>Isaac Asimov</autor>
+        <ISBN>9788497595018</ISBN>
+        <editorial>Debolsillo</editorial>
+        <fecha>1952</fecha>
+        <url>https://www.casadellibro.com/libro-fundacion-e-imperio/9788497595018/885795</url>
+        <sinopsis>
+            Guiada por su fundador, el gran psicohistoriador Hari Seldon, y gracias a su superioridad científica y tecnológica, la Fundación ha logrado sobrevivir a la amenaza de barbarie y avaricia de sus planetas vecinos. Pero ahora debe enfrentarse al Imperio, que, pese a su decadencia, sigue siendo la fuerza más poderosa de la galaxia.
+        </sinopsis>
+    </libro>
+    <libro>
+        <titulo>Segunda Fundación</titulo>
+        <autor>Isaac Asimov</autor>
+        <ISBN>9788497596763</ISBN>
+        <editorial>Debolsillo</editorial>
+        <fecha>1953</fecha>
+        <url>https://www.casadellibro.com/libro-segunda-fundacion/9788497596763/901028</url>
+        <sinopsis>
+            Ahora que la primera Fundación ha sido destruida, la segunda Fundación se ve obligada a revelar su existencia. La finalidad del Mulo no es otra que la de descubrir el emplazamiento de esta segunda Fundación para destruirla, pero no es el único, los supervivientes de la primera Fundación también quieren acabar con ella... antes de que ella acabe con ellos.
+        </sinopsis>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <ISBN>9782072730030</ISBN>
+        <editorial>Du Monde Entier</editorial>
+        <fecha>8 de junio de 1949</fecha>
+        <url>https://www.casadellibro.com/libro-1984/9782072730030/6409216</url>
+        <sinopsis>
+            En el año 1984 Londres es una ciudad lúgubre en la que la Policía del Pensamiento controla de forma asfixiante la vida de los ciudadanos. Winston Smith es un peón de este engranaje perverso y su cometido es reescribir la historia para adaptarla a lo que el Partido considera la versión oficial de los hechos. Hasta que decide replantearse la verdad del sistema que los gobierna y somete.
+        </sinopsis>
+    </libro>
+</exposicion>
